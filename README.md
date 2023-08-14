@@ -69,10 +69,12 @@ I'm a full-stack developer based in Newcastle, NSW building my version of the di
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 </details>
 
+## Some stats 📊
+<a href="#">
+  <img text-align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asimfaiaz&hide=css,html,c,freebasic,makefile&hide_border=true&theme=radical&langs_count=100&layout=compact&card_width=350" /></a>
+</a>
 
-<br />
 
-#
 
 
 
