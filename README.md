@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/AsimFaiaz">
-    <img src="![Alt text](<Asim Faiaz CirCrop.png>)" alt="Asim Faiaz" /></a>
+     <img src="" alt="Asim Faiaz" /></a>
 </p>
 
 
