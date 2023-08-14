@@ -1,6 +1,5 @@
 <p align="center">
-  <a href="https://github.com/AsimFaiaz">
-     <img src="" alt="Asim Faiaz" /></a>
+     ![Asim Faiaz CirCrop](https://github.com/AsimFaiaz/AsimFaiaz/assets/70787587/f24d6e17-39d6-4aa3-8a2a-5d1d42ad9a79)
 </p>
 
 
