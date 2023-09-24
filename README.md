@@ -10,7 +10,7 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20Soft%20and%20Web%20developer;Love%20To%20Design%20UI%2FUX%2FGraphics;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
-I'm a full-stack developer based in Newcastle, NSW building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
+I'm a full-stack developer based in Wollongong, NSW building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
 <!-- Social icons section -->
 <div align="center">
