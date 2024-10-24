@@ -13,12 +13,12 @@
 I'm a full-stack developer based in Wollongong, NSW building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
 <!-- Social icons section -->
-<div align="center">
+<div align="center" background="white">
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' style='filter: invert(100%);background: white;'>](https://github.com/AsimFaiaz/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' style='background: white;'>](https://www.linkedin.com/in/asim-faiaz-902228208/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40' style='filter: invert(100%);background: white;'>](https://codepen.io/Rass1234)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40' style='filter: invert(100%);background: white;'>](https://portfolio-website-95c.pages.dev/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' style='filter: invert(100%)'>](https://github.com/AsimFaiaz/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' style='filter: invert(100%);'>](https://www.linkedin.com/in/asim-faiaz-902228208/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40' style='filter: invert(100%);'>](https://codepen.io/Rass1234)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40' style='filter: invert(100%);'>](https://portfolio-website-95c.pages.dev/)
 
 </div>
 <hr>
