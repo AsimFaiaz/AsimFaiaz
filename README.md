@@ -8,3 +8,6 @@ My Questionable Workflow - Dont f JUDGE.........
 - Side quest: proving git push -f can be a valid problem-solving technique.
 
 ![Asim's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsimFaiaz&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsimFaiaz&layout=compact)
+
