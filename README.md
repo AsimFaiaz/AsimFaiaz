@@ -6,3 +6,5 @@ My Questionable Workflow - Dont f JUDGE.........
 - Known for // TODO: fix later comments that age like fine wine.
 - Debugging style: add a console.log, whisper a prayer, repeat.  - Eventually will be removed Insha Allah, NOT SURE when tho.
 - Side quest: proving git push -f can be a valid problem-solving technique.
+
+![Asim's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsimFaiaz&show_icons=true&theme=radical)
