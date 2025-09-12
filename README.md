@@ -1,4 +1,4 @@
-My Questionable Workflow - Dont f JUDGE.........
+My Questionable Workflow -
 - C# – Why not???????
 - Love UI/UX until CSS decides it hates me.
 - Forever juggling front-end optimism (“it’ll be quick”) with back-end reality (“just one more migration”).
