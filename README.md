@@ -12,7 +12,7 @@ My Questionable Workflow -
 ---
 
 - Playground Projects: 
-I also maintain a bunch of small side utilities — my personal playground of random experiments, async toys, and architectural patterns that I build for fun (and occasionally use for personal projects).  
+I also maintain a bunch of small side utilities - my personal playground of random experiments, async toys, and architectural patterns that I build for fun (and occasionally use for personal projects).  
 They’ll keep evolving whenever I get new ideas. Just a few are added so far under the **MIT License**, and I’ll update the rest slowly whenever time allows. <br>
 Projects in the pipeline include: <br>
 
