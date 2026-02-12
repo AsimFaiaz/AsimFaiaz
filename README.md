@@ -38,3 +38,6 @@ Projects in the pipeline include: <br>
   - **System & Misc:**  
 `JsonDiffer` · `ConfigHotReloader` · `FileSyncWatcher` · `EnvGuard` ·  
 `SystemMetricsCollector` · `AppLifecycleTracker` · `AsyncStopToken`
+
+- **Front-End:**  
+`Dynamic Hue Adjustment` 
