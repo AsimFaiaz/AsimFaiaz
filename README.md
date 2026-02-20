@@ -41,6 +41,3 @@ Projects in the pipeline include: <br>
 
   - **Front-End:**  
 `Dynamic Hue Adjustment`
-
-  - **Front-End:**  
-`[AsyncThrottle](https://github.com/yourname/yourrepo/blob/main/src/AsyncThrottle.cs)` 
