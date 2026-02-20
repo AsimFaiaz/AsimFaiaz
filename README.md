@@ -40,4 +40,7 @@ Projects in the pipeline include: <br>
 `SystemMetricsCollector` · `AppLifecycleTracker` · `AsyncStopToken`
 
   - **Front-End:**  
-`Dynamic Hue Adjustment` 
+`Dynamic Hue Adjustment`
+
+  - **Front-End:**  
+`[AsyncThrottle](https://github.com/yourname/yourrepo/blob/main/src/AsyncThrottle.cs)` 
