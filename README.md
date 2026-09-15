@@ -1,17 +1,27 @@
-My Questionable Workflow -
-- C# – Why not??????? oh also JS - Sometimes… (tolerate, good luck debugging tho)
-- Love UI/UX until CSS decides it hates me
-- Forever juggling front-end optimism (“it’ll be quick”) with back-end reality (“just one more migration”)
-- Fluent in Stack Overflow dialect - answers written in 2008 but still working today (tough luck)
-- Known for // TODO: fix later comments that age like fine wine
-- Debugging style: add a console.log, repeat and repeat again
-- Side quest: proving git push -f can be a valid problem-solving technique
-- "A man who loves a cat is a good man; a cat who loves a man is a good man" - Just saying
-- Currently spending spare time on [Zenvestify](https://github.com/AsimFaiaz/Zenvestify)  
+<h3>Quote for forever:</h3>
+<pre>
+<code>
+  "a man who loves a cat is a good man; a cat who loves a man is a good man"
+</code>
+</pre>
 
----
+<h3>Quote of the Week:</h3>
+<pre>
+  <code>
+    "nothing is more permanent than a temporary fix that made it to production"
+  </code>
+</pre>
 
-- Playground Projects: 
+<h3>Message of the Week:</h3>
+<pre>
+<code>if (worksOnMyMachine) {
+    deploy();
+}</code>
+</pre>
+
+--------
+
+Playground Projects: 
 I also maintain a bunch of small side utilities - my personal playground of random experiments, async toys, and architectural patterns that I build for fun (and occasionally use for personal projects).  
 They’ll keep evolving whenever I get new ideas. Just a few are added so far under the **MIT License**, and I’ll update the rest slowly whenever time allows. <br>
 Projects in the pipeline include: <br>
