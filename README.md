@@ -8,15 +8,16 @@
 <h3>Quote of the Week:</h3>
 <pre>
   <code>
-    "nothing is more permanent than a temporary fix that made it to production"
+    "the code is done. we just need to figure out what it was supposed to do"
   </code>
 </pre>
 
 <h3>Message of the Week:</h3>
 <pre>
-<code>if (worksOnMyMachine) {
-    deploy();
-}</code>
+<code>
+    const deadline = new Date("Friday");
+    deadline.setDate(deadline.getDate() - 3);
+</code>
 </pre>
 
 --------
